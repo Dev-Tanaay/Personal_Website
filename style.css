@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+}
+.navigation{
+    width: 150px;
+    background-color: #000;
+    
+}
+.nav{
+    margin-top: 250px;
+}
+a{
+    text-decoration: none;
+}
+h3{
+    color: #e245fe;
+    margin-left: 10px;
+    padding: 20px;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 900;
+    font-size: 25px;
+}
+.hoving:hover{
+    text-decoration: underline;
+}
+.Project-Section{
+    margin-left: 152px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+h2{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+    padding: 30px;
+    
+}
+h4{
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+    text-decoration: underline;
+    
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+p{
+    font-family: 'Comfortaa', cursive;
+    font-size: 18px;
+}
+.under:hover{
+    text-decoration: underline;
+}
+.Title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.text{
+    color: #e245fe;
+    
+    font-family: 'Comfortaa', cursive;
+    font-size: 23px;
+    font-weight: bolder;
+    
+    padding: 30px;
+}
+.mar{
+    margin-top: 130px;
+    margin-left: 20px;
+}
+img{
+    border-radius: 50%;
+    width: 15%;
+    height: 30%;
+    margin-left: 500px;
+    margin-top: 100px;
+    border-color: #e245fe;
+    padding: 10px;
+}
+.skill{
+    padding-left: 0px;
+    margin-right: 500px;
+}
+.data{
+    font-family:'Comfortaa', cursive ;
+    font-size: 25px;
+}
