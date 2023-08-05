@@ -2,6 +2,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #000;
+    font-family: 'Comfortaa', cursive;
 }
 .navigation{
     width: 150px;
@@ -9,7 +10,7 @@ body{
     
 }
 .nav{
-    margin-top: 250px;
+    margin-top: 187px;
 }
 a{
     text-decoration: none;
@@ -28,12 +29,34 @@ h3{
 .Project-Section{
     margin-left: 152px;
 }
+.works{
+    color: aliceblue;
+    margin-left: 68px;
+}
+.work_heading{
+    text-decoration: underline;
+    font-size: 30px;
+    margin-top: 69px;
+    text-align: center;
+}
+.tab{
+    margin-top: 89px;
+    font-size: 23px;
+}
+
+.texts:hover{
+    text-decoration: underline;
+}
+
+.work_name{
+    color: #e245fe;
+    font-size: 35px;
+}
 .container{
     display: flex;
     flex-direction: row;
 }
 h2{
-    text-align: center;
     font-family: 'Comfortaa', cursive;
     font-size: 40px;
     font-weight: bolder;
@@ -54,6 +77,11 @@ hr{
 p{
     font-family: 'Comfortaa', cursive;
     font-size: 18px;
+    margin-bottom: 37px;
+    color: aliceblue;
+}
+.aligner{
+    text-align: center;
 }
 .under:hover{
     text-decoration: underline;
@@ -72,17 +100,36 @@ p{
     padding: 30px;
 }
 .mar{
-    margin-top: 130px;
+    margin-top: 60px;
     margin-left: 20px;
 }
+.setter{
+    margin:33px;
+    margin-top: 0px;
+}
+.navar{
+    margin-left: 55px;
+}
 img{
-    border-radius: 50%;
-    width: 15%;
-    height: 30%;
-    margin-left: 500px;
+    border-radius: 124px;
+    width: 14%;
     margin-top: 100px;
     border-color: #e245fe;
     padding: 10px;
+}
+.photo{
+    text-align: center;
+}
+.name{
+    padding: 5px;
+}
+
+.itsme{
+    color: white;
+    margin-left: 75px;
+    margin-right: 75px;
+    text-align: center;
+    line-height: 33px;
 }
 .skill{
     padding-left: 0px;
